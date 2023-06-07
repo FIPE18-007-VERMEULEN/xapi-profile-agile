@@ -1,0 +1,37 @@
+{
+    "id": "https:///apaches.wp.imt.fr/xAPI/Profile/agile",
+    "@context": "https://w3id.org/xapi/profiles/context",
+    "type": "Profile",
+    "conformsTo": "https://w3id.org/xapi/profiles#1.0",
+    "prefLabel": {
+        "en": "Agile"
+    },
+    "definition": {
+        "en": "Actors, Verbs and Objects for use in agile project managment."
+    },
+    "seeAlso": "https://apaches.wp.imt.fr/eiah23-deckify-rsc",
+    "versions": [
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "generatedAtTime": "2023-06-07T07:07:00.955Z"
+        }
+    ],
+    "author": {
+        "type": "Person",
+        "name": "Alexis Lebis",
+        "url": "https://cv.hal.science/alexislebis"
+    },
+    "concepts": [
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/assigned",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "assigned"
+            },
+            "definition": {
+                "en": "Indicates that the actor intentionally puts someone in charge of a specific Task."
+            }
+        },
+    ]
+}
