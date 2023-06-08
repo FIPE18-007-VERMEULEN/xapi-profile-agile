@@ -187,7 +187,139 @@
             "definition": {
                 "en": "Indicates that the actor considers that a terminated Task does not met the required quality standard expected for it."
             }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/productBacklog",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "product backlog"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/DoD",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "definition of done"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprintBacklog",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "sprint backlog"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/dailyScrum",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "daily scrum"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprint",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "sprint"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/burndownChart",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "brundown chart"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/task",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "task"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/project",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "project"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/indicator",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "indicator"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprintReview",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "sprint review"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprintRetrospective",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "sprint retrospective"
+            },
+            "definition": {
+                "en": "TODO"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/objective",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "objective"
+            },
+            "definition": {
+                "en": "TODO"
+            },
+            "recommendedActivityTypes" : ["https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprint","https://apaches.wp.imt.fr/xAPI/Profile/CardGame/task","https://apaches.wp.imt.fr/xAPI/Profile/CardGame/project", "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/dailyScrum"]
         }
-
     ]
 }
