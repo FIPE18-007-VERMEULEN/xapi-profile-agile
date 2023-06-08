@@ -33,5 +33,161 @@
                 "en": "Indicates that the actor intentionally puts someone in charge of a specific Task."
             }
         },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/recommended",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "recommended"
+            },
+            "definition": {
+                "en": "Indicates that the actor knows, or assumes, that someone has valuable insights for something, usually a Task"
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/removed",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "removed"
+            },
+            "definition": {
+                "en": "Indicates that the actor delete, go back, pull out something of one thing, generally planned."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/organized",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "organized"
+            },
+            "definition": {
+                "en": "Indicates that the actor rearrange, generally in term of order, something from, generally, a task."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/described",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "described"
+            },
+            "definition": {
+                "en": "Indicates that the actor brings additionnal (supposedly useful) information regarding an element."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/viewed",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "viewed"
+            },
+            "definition": {
+                "en": "Indicates that the actor intentionally checks an element."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/completed",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "completed"
+            },
+            "definition": {
+                "en": "Indicates that the actor finishes a task that has been assigned to him."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/unassigned",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "unassigned"
+            },
+            "definition": {
+                "en": "Indicates that the actor intentionally withdraws someone in charge of a specific Task."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/helped",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "helped"
+            },
+            "definition": {
+                "en": "Indicates that the actor has intervened on a task assigned to someone else."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/approved",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "approved"
+            },
+            "definition": {
+                "en": "Indicates that the actor considers that a terminated Task fulfil its objectives (both in term of implementation and backlog)."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/discussed",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "discussed"
+            },
+            "definition": {
+                "en": "Indicate that, during meeting phases (e.g. backlog definition, Sprint review, Sprint retrospective), the actor verbally interacts with someone else about some element of the project."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/struggled",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "struggled"
+            },
+            "definition": {
+                "en": "Indicates that the actor has informed someone (e.g. Product Owner) that he needs help regardind the Task he is working on."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/canceled",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "canceled"
+            },
+            "definition": {
+                "en": "Indicates that the actor as decided to terminate something that is time-boxed before the time limit, often a sprint. This should have a negative connotation (e.g. something wrong happens during a sprint)."
+            },
+            "broader" : ["https://apaches.wp.imt.fr/xAPI/Profile/agile/ended"]
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/ended",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "ended"
+            },
+            "definition": {
+                "en": "Indicates that the actor calls the end of something or terminates something. The major difference with cancels is that the duration of a time-boxed element is supposedly respected."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/agile/refused",
+            "type": "Verb",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/agile/v1.0",
+            "prefLabel": {
+                "en": "refused"
+            },
+            "definition": {
+                "en": "Indicates that the actor considers that a terminated Task does not met the required quality standard expected for it."
+            }
+        }
+
     ]
 }
