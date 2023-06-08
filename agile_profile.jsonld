@@ -190,7 +190,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/productBacklog",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "product backlog"
@@ -201,7 +201,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/DoD",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "definition of done"
@@ -212,7 +212,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprintBacklog",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "sprint backlog"
@@ -223,7 +223,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/dailyScrum",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "daily scrum"
@@ -234,7 +234,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprint",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "sprint"
@@ -245,7 +245,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/burndownChart",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "brundown chart"
@@ -256,7 +256,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/task",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "task"
@@ -267,7 +267,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/userStory",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "user story"
@@ -278,7 +278,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/project",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "project"
@@ -289,7 +289,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/indicator",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "indicator"
@@ -300,7 +300,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprintReview",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "sprint review"
@@ -311,7 +311,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprintRetrospective",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "sprint retrospective"
@@ -322,7 +322,7 @@
         },
         {
             "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/objective",
-            "type": "ActivityExtension",
+            "type": "Activity",
             "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
             "prefLabel": {
                 "en": "objective"
