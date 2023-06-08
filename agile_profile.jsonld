@@ -196,7 +196,7 @@
                 "en": "product backlog"
             },
             "definition": {
-                "en": "TODO"
+                "en": "Refers to a prioritized list of functionality which a product should contain."
             }
         },
         {
@@ -207,7 +207,7 @@
                 "en": "definition of done"
             },
             "definition": {
-                "en": "TODO"
+                "en": "Refers to an agreed-upon list of item that must be met in order to consider a project or a user story completed."
             }
         },
         {
@@ -218,7 +218,7 @@
                 "en": "sprint backlog"
             },
             "definition": {
-                "en": "TODO"
+                "en": "Refers to a prioritized list of functionality which a sprint should contain."
             }
         },
         {
@@ -229,7 +229,7 @@
                 "en": "daily scrum"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A daily meeting, often of 15 minutes, aiming to facilitate interactions within the members of a project to reach an objective."
             }
         },
         {
@@ -240,7 +240,7 @@
                 "en": "sprint"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A sprint is a time-boxed iteration, typically lasting two to four weeks, in which a team works to deliver a set of product increments or features."
             }
         },
         {
@@ -251,7 +251,7 @@
                 "en": "brundown chart"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A burndown chart is a visual representation that tracks the progress of work completed versus the planned work over time in a Scrum sprint or project."
             }
         },
         {
@@ -262,7 +262,18 @@
                 "en": "task"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A task is a specific and measurable unit of work that needs to be completed as part of a sprint."
+            }
+        },
+        {
+            "id": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/userStory",
+            "type": "ActivityExtension",
+            "inScheme": "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/v1.0",
+            "prefLabel": {
+                "en": "user story"
+            },
+            "definition": {
+                "en": "A user story is a concise description of a desired feature or functionality from the perspective of an end user, written in a format that captures the 'who' 'what,' and 'why.'"
             }
         },
         {
@@ -273,7 +284,7 @@
                 "en": "project"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A project refers to a time-bound initiative with a defined scope, objectives, and deliverables that follows the agile principles and practices for iterative development and collaboration."
             }
         },
         {
@@ -284,7 +295,7 @@
                 "en": "indicator"
             },
             "definition": {
-                "en": "TODO"
+                "en": "An indicator is a measurable metric used to assess the effectiveness, efficiency, and health of agile processes and practices, providing valuable feedback for continuous improvement and decision-making."
             }
         },
         {
@@ -295,7 +306,7 @@
                 "en": "sprint review"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A sprint review is a collaborative meeting held at the end of a sprint in Scrum, where the development team demonstrates the completed work to stakeholders and gathers feedback for future iterations."
             }
         },
         {
@@ -306,7 +317,7 @@
                 "en": "sprint retrospective"
             },
             "definition": {
-                "en": "TODO"
+                "en": "A sprint retrospective is a team reflection meeting held at the end of a sprint in Scrum, where the team discusses what went well, what could be improved, and defines action items for enhancing their processes in the future. Not to be confused with the sprint review which is more factual."
             }
         },
         {
@@ -317,7 +328,7 @@
                 "en": "objective"
             },
             "definition": {
-                "en": "TODO"
+                "en": "An objective is a clear and measurable goal that guides the team's efforts and provides a shared direction for the sprint or project."
             },
             "recommendedActivityTypes" : ["https://apaches.wp.imt.fr/xAPI/Profile/CardGame/sprint","https://apaches.wp.imt.fr/xAPI/Profile/CardGame/task","https://apaches.wp.imt.fr/xAPI/Profile/CardGame/project", "https://apaches.wp.imt.fr/xAPI/Profile/CardGame/dailyScrum"]
         }
