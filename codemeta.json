@@ -11,7 +11,7 @@
     "name": "xAPI Profile - Agile",
     "version": "1.0.0",
     "identifier": "swh:1:dir:8b3267d154aed8bdee3cb0335592a1720023b610;origin=https://gitlab.univ-lille.fr/alexis.lebis/xapi-profile-agile.git;visit=swh:1:snp:e23ed3cbda1af1209ac48b9c7787ba48e53b796e;anchor=swh:1:rev:f8e1a000e6bdbeac237d4a5e423a0b2ae3733382",
-    "description": "A profile human and machine-readable documentation of application-specific concepts, statement patterns, extensions, and statement templates used to implement xAPI in a particular context, here involving playing cards activities",
+    "description": "A profile human and machine-readable documentation of application-specific concepts, statement patterns, extensions, and statement templates used to implement xAPI in a particular context, here involving Agile approaches",
     "applicationCategory": "Technology for Human Learning",
     "releaseNotes": "Release version of the xAPI profile",
     "funding": "FIPE18-007-VERMEULEN",
