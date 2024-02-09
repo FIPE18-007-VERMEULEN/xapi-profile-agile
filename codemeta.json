@@ -1,0 +1,68 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+    "codeRepository": "https://gitlab.univ-lille.fr/alexis.lebis/xapi-profile-agile",
+    "dateCreated": "2023-06-08",
+    "datePublished": "2023-06-08",
+    "dateModified": "2023-06-08",
+    "downloadUrl": "https://gitlab.univ-lille.fr/alexis.lebis/xapi-profile-agile/-/raw/main/agile_profile.jsonld?ref_type=heads&inline=false",
+    "issueTracker": "https://gitlab.univ-lille.fr/alexis.lebis/xapi-profile-agile/-/issues",
+    "name": "xAPI Profile - Agile",
+    "version": "1.0.0",
+    "identifier": "swh:1:dir:8b3267d154aed8bdee3cb0335592a1720023b610;origin=https://gitlab.univ-lille.fr/alexis.lebis/xapi-profile-agile.git;visit=swh:1:snp:e23ed3cbda1af1209ac48b9c7787ba48e53b796e;anchor=swh:1:rev:f8e1a000e6bdbeac237d4a5e423a0b2ae3733382",
+    "description": "A profile human and machine-readable documentation of application-specific concepts, statement patterns, extensions, and statement templates used to implement xAPI in a particular context, here involving playing cards activities",
+    "applicationCategory": "Technology for Human Learning",
+    "releaseNotes": "Release version of the xAPI profile",
+    "funding": "FIPE18-007-VERMEULEN",
+    "developmentStatus": "inactive",
+    "referencePublication": "https://hal.science/hal-04148574",
+    "funder": {
+        "@type": "Organization",
+        "name": "ISITE-ULNE"
+    },
+    "keywords": [
+        "xAPI",
+        "Profile",
+        "Ontology"
+    ],
+    "programmingLanguage": [
+        "JSONLD"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://cv.hal.science/alexislebis",
+            "givenName": "Alexis",
+            "familyName": "Lebis",
+            "email": "alexis.lebis@imt-nord-europe.fr",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Centre for Digital Systems - CERI SN - IMT Nord Europe"
+            }
+        }
+    ],
+    "contributor": [
+        {
+            "@type": "Person",
+            "@id": "https://cv.hal.science/mathieu-vermeulen",
+            "givenName": "Mathieu",
+            "familyName": "Vermeulen",
+            "email": "mathieu.vermeulen@imt-nord-europe.fr",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Centre for Digital Systems - CERI SN - IMT Nord Europe"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Romain",
+            "familyName": "Deleau",
+            "email": "romain.deleau@imt-nord-europe.fr",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "IMT Nord Europe"
+            }
+        }
+    ]
+}
